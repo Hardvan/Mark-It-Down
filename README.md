@@ -16,9 +16,9 @@ This is a self-explanatory Markdown cheatsheet. It is meant to be used as a refe
 
 ## Text Formatting
 
-_Italic_
-**Bold**
-**_Bold and Italic_**
+_Italic_  
+**Bold**  
+**_Bold and Italic_**  
 ~~Strikethrough~~
 
 ## Lists
