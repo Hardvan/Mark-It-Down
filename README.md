@@ -1,5 +1,7 @@
 # Markdown Styles Cheatsheet
 
+This is a self-explanatory Markdown cheatsheet. It is meant to be used as a reference for the most common Markdown styles.
+
 # Heading 1
 
 ## Heading 2
