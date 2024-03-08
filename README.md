@@ -60,7 +60,7 @@ $$
 
 ## Images
 
-![Alt Text](image_url)
+![Alt Text](./image.png)
 
 ## Blockquotes
 
